@@ -1,0 +1,31 @@
+body {
+	background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: "Dubai", sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+	color: rgb(0, 251, 255);
+	text-align: center;
+}
+
+img {
+	float: right;
+    border-radius: 20px;
+}
+
+.endmatter {
+	background: rgb(185, 185, 185);
+}
+
+a {
+    color: rgb(0, 255, 17);
+}
+
+.endmatter {
+    padding: 30px;
+    border: rgb(255, 0, 0);
+    background: rgb(0, 69, 8);
+    border-radius: 20px;
+}
