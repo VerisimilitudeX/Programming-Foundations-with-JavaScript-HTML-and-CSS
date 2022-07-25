@@ -29,3 +29,8 @@ a {
     background: rgb(0, 69, 8);
     border-radius: 20px;
 }
+
+table {
+    border: 2px solid red;
+    border-radius: 10px;
+}
