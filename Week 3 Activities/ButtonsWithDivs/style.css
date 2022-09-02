@@ -1,0 +1,14 @@
+.headertext {
+    color: rgb(143, 3, 3);
+    font-size: 3.6em;
+}
+
+.paratext {
+    color: rgb(255, 255, 255);
+    font-size: 1.6em;
+}
+
+.mainbody {
+    background-color: rgb(28, 28, 31);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
